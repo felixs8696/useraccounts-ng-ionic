@@ -1,6 +1,6 @@
 Package.describe({
   name: 'felixs8696:useraccounts-ng-ionic',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: "AngularJS wrapper for Splendido's Meteor useraccounts:ionic package",
   git: 'https://github.com/felixs8696/useraccounts-ng-ionic',
   documentation: 'README.md'
