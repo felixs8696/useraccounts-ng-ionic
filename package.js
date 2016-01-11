@@ -11,7 +11,6 @@ Package.onUse(function(api) {
   api.use('angular:angular@1.4.7', 'client');
   api.use('blaze-html-templates', 'client');
 
-  api.imply('accounts-ui');
   api.imply('useraccounts:ionic@1.13.1');
 
   api.addFiles([
